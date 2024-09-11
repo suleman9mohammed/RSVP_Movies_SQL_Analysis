@@ -41,5 +41,5 @@ The dataset used in this project consists of IMDb movie data from the past three
 ## How to Run the SQL Script
 
 1. Download and set up MySQL Workbench or any other SQL IDE.
-2. Load the `IMDB_questions_DS_C63.sql` script.
+2. Load the `IMDB_SQL_Mohammed suleman.sql` script.
 3. Run the SQL queries directly on the provided database to view the results.
