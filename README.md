@@ -1,4 +1,4 @@
-# README: RSVP Movies Data Analysis Project
+# RSVP Movies Data Analysis Project
 
 [**Dataset Download Link**](https://1024terabox.com/s/1UE2gtMB5QGvv2uwLNcuGBw)
 
