@@ -18,7 +18,7 @@ The dataset used in this project consists of IMDb movie data from the past three
 
 ## Repository Contents
 
-- **SQL Script**: The `IMDB_questions_DS_C63.sql` file contains the SQL queries used to answer business questions based on the dataset.
+- **SQL Script**: The `IMDB_SQL_Mohammed suleman.sql` file contains the SQL queries used to answer business questions based on the dataset.
 - **Executive Summary**: A PDF document summarizing the findings and providing recommendations based on the analysis.
 - **Dataset and ER Diagram**: Additional files used for understanding the dataset structure and the relationships between different tables.
 
